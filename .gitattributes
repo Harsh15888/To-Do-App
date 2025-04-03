@@ -2,3 +2,5 @@
 *.cpp linguist-vendored
 *.h linguist-vendored
 *.dart linguist-language=Dart
+linux/* linguist-vendored
+windows/* linguist-vendored
