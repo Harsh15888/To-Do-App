@@ -4,3 +4,5 @@ linux/* linguist-vendored
 windows/* linguist-vendored
 *.cmake linguist-vendored
 CMakeLists.txt linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
