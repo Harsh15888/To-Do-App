@@ -10,7 +10,6 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-
   //text controller
   final _controller = TextEditingController();
 
@@ -63,13 +62,13 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.blue[200],
       appBar: AppBar(
         backgroundColor: Colors.blue[700],
-        leading: Icon(Icons.menu),
+        // leading: Icon(Icons.menu),
         actions: [
-          IconButton(
-            onPressed: () {},
-            icon: Icon(Icons.logout), // logout button
-            color: Colors.black,
-          )
+          // IconButton(
+          //   onPressed: () {},
+          //   icon: Icon(Icons.logout), // logout button
+          //   color: Colors.black,
+          // )
         ],
         title: Text(
           "To Do",
