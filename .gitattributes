@@ -1,6 +1,6 @@
 *.dart linguist-detectable=true
-*.cpp linguist-vendored
-*.h linguist-vendored
 *.dart linguist-language=Dart
 linux/* linguist-vendored
 windows/* linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
