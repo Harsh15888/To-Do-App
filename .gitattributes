@@ -2,6 +2,4 @@
 *.cpp linguist-vendored
 *.h linguist-vendored
 *.dart linguist-detectable=true
-CMakeLists.txt linguist-vendored
-*.cmake linguist-vendored
-
+*.dart linguist-language=Dart
