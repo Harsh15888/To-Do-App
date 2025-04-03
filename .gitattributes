@@ -1,1 +1,4 @@
-*.text=auto
+*.dart linguist-detectable=true
+*.cpp linguist-vendored
+*.h linguist-vendored
+git
